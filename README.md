@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm @alexkemboi
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br/>
-🌱 I’m currently learning React,Javascript,HTML & CSS.<br/>
+🌱 I’m currently learning React,Javascript,HTML & CSS,MongoDB,Bootstrap<br/>
 👀 I’m interested in Web development<br/>
 💞️ I’m looking to collaborate on Web development projects<br/>
 
