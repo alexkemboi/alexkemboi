@@ -1,8 +1,7 @@
 ### Hi there 👋,I'm @alexkemboi
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br/>
-🌱 I’m currently building HTML & CSS,Javascript,,Bootstrap,React,C#,ASP.NET,MySQL,C#<br/>
-👀 I’m interested in Web development<br/>
-💞️ I’m looking to collaborate on Web development projects<br/>
+🌱 I’m currently building with HTML & CSS,Javascript,Bootstrap,React,C#,ASP.NET,MySQL,C#<br/> 
+💞️ I’m open to collaborate on Web development projects<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,9 +17,6 @@
 <img src="https://cdn.svgporn.com/logos/aspnet.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL">&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" title="Azure" alt="Azure" width="40" height="40" />
-
-  
-  
+<img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" title="Azure" alt="Azure" width="40" height="40" />  
 </div>
 
