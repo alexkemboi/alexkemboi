@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm @alexkemboi
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br/>
-🌱 I’m currently building with HTML & CSS,Javascript,Bootstrap,React,C#,ASP.NET,MySQL,C#<br/> 
+🌱 I’m currently building with HTML & CSS,Javascript,Bootstrap,React,C#,ASP.NET,MySQL<br/> 
 💞️ I’m open to collaborate on Web development projects<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
