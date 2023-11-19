@@ -18,5 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL">&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" title="Azure" alt="Azure" width="40" height="40" />  
+  <img src="https://cdn.svgporn.com/logos/microsoft-typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
+
 </div>
 
