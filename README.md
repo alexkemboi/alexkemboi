@@ -6,10 +6,10 @@
 🤝 Open to collaborating on exciting web development projects.  
 
 ---
-
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
@@ -25,6 +25,7 @@
 <img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" title="Azure" alt="Azure" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/microsoft-typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+
 </p>
 
 ---
