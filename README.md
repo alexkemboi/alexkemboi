@@ -1,46 +1,88 @@
-# Hi there 👋 I'm Alex Kemboi
+# Hi, I'm Alex Kemboi
 
-💻 Software Engineer passionate about building modern, scalable, and user-focused web applications.  
-🚀 Experienced in both frontend and backend development.  
-🌱 Currently working with modern web technologies and continuously learning new tools.  
-🤝 Open to collaborating on exciting web development projects.  
+### Senior Software Developer | Full Stack Engineer | Software Solutions Architect
+
+I design, build and maintain software solutions that solve real business problems. My work spans the full software development lifecycle, from system architecture and database design to application development, integrations, deployment and production support.
+
+I enjoy working across frontend and backend technologies, building scalable applications, integrating business systems and improving existing software through practical engineering.
+
+### What I Work On
+
+- **Software Development:** Building scalable web applications, enterprise systems and business solutions.
+- **System Architecture:** Designing maintainable application architectures, APIs and database structures.
+- **Frontend Engineering:** Developing responsive, accessible and intuitive user interfaces.
+- **Backend Engineering:** Building secure APIs, business logic and service integrations.
+- **Database Engineering:** Designing, optimising and managing relational databases.
+- **Cloud & DevOps:** Application deployment, CI/CD, server administration and production support.
+- **Technical Leadership:** Code reviews, technical design, troubleshooting and mentoring developers.
+- **AI Integration:** Exploring and integrating AI capabilities into practical business applications.
 
 ---
-## 🛠️ Languages & Tools
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
+## Technical Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/c-sharp.svg" title="C#" alt="C#" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/aspnet.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" title="Azure" alt="Azure" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/microsoft-typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
+**Frontend Development**
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" title="Next.js" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="38" title="Angular" alt="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" title="Bootstrap" alt="Bootstrap"/>
+</p>
+
+**Backend Development**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" title="Express.js" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" title="C#" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="38" title=".NET" alt=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python" alt="Python"/>
+</p>
+
+**Databases & Data Engineering**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="38" title="Microsoft SQL Server" alt="Microsoft SQL Server"/>
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="38" title="Microsoft Azure" alt="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" title="Linux" alt="Linux"/>
 </p>
 
 ---
 
-## 📌 Current Focus
+## Current Interests
 
-- Full Stack Web Development  
-- Responsive UI/UX Design  
-- API Development & Integration  
-- Database Design & Management  
-- Cloud Deployment & Hosting  
+- Enterprise application development and system integration.
+- Software architecture and scalable backend systems.
+- Database performance and optimisation.
+- AI-powered applications and intelligent automation.
+- Cloud infrastructure and deployment automation.
+- Engineering practices, testing and code quality.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always open to discussing projects, freelance work, and collaboration opportunities.
+I'm open to meaningful collaborations, interesting engineering challenges and opportunities to build practical software solutions.
 
+- **GitHub:** [@alexkemboi](https://github.com/alexkemboi)
+- **Portfolio:** [Alex Kemboi](https://www.alexkemboi.dev)
+
+---
+
+*"Good software is not just about writing code. It's about solving the right problems and building systems that last."*
